@@ -26,5 +26,4 @@ const instrumentFamilies = [
   }
 ];
 
-// module.exports = instrumentFamilies;
 export { instrumentFamilies as data };
